@@ -1,6 +1,6 @@
 ---
 name: nano-banana-skill
-description: Nano Banana - Google AI image generation models for AI agents. Ultra-high character consistency, 1K-4K resolution, up to 14 reference images, extreme aspect ratios up to 21:9 and 8:1.
+description: Nano Banana, Nano Banana Pro, Nano Banana 2 - Google AI image generation models for AI agents. Ultra-high character consistency, 1K-4K resolution, up to 14 reference images, extreme aspect ratios up to 21:9 and 8:1.
 metadata:
   openclaw:
     requires:
